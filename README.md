@@ -1,6 +1,11 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-
+These are the fundamental concepts of version control:
+Commit- keep track of newly changed or saved point to the source code.
+Branch- is a new or separate version of the main repository
+Staging environment- staged files are files that are ready to be committed to the repository you are working on.
+Github is a popular tool for managing version control code because of collaboration facilitates teamwork by allowing multiple developers to work on projects simultaneously , version tracking history of code changes enabling easy retrieval of previous versions, and branching developers can create branches for new features or experiments without affecting the main codebase.
+Version control help in maintaining project integrity by: tracking code changes, tracking who made changes, and coding collaboration 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
